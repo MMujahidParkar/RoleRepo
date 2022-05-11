@@ -1,7 +1,7 @@
 {
   "name": "Role",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Server Create and delete role UI Testing.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.Mail.Activities": "[1.15.1]",
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.4.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -47,6 +47,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "13b82b44-fb30-4640-a0e8-61d0160e6e3d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Server Create and delete role UI Testing.xaml",
+      "uniqueId": "0df1a5a0-4729-44cd-8ef4-8ae53fb9ec81",
       "input": [],
       "output": []
     }
