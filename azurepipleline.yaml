@@ -1,3 +1,7 @@
+
+pool:
+  vmImage: windows-latest
+
 steps:
   - task: UiPathRunJob@2
     inputs:
