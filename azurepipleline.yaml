@@ -1,1 +1,7 @@
 
+- task: UiPathRunJob@2
+  inputs:
+    orchestratorConnection: 'Test1Service'
+    processName: 'RoleOcs'
+    folderName: 'DemoProj'
+    traceLevel: 'Verbose'
